@@ -1,54 +1,62 @@
 <div align="center">
 
 # 🚀 maxdeveloperdc
-### System Architect & Backend Specialist
+### Full-Stack Architect | Scaling Systems & Distributing Logic
 
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdeveloperdc&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/maxdeveloperdc)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdeveloperdc&theme=radical&show_icons=true&hide_border=true&layout=compact)](https://github.com/maxdeveloperdc)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Architecting-00ff00?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+</p>
 
 ---
 
-### 💻 Teknoloji Stack & Altyapı
+### 🏛️ Teknik Yaklaşım
+> "Karmaşıklığı yönetilebilir parçalara bölmek, bir mimarın temel sanatıdır."
 
-| Layer | Technologies |
+| **Domain** | **Primary Tech** |
 | :--- | :--- |
-| **Languages** | `Rust` `Go` `TypeScript` `Python` |
-| **Backend** | `FastAPI` `Node.js` `Express` |
-| **Database** | `PostgreSQL` `Redis` `MongoDB` |
-| **Infrastructure** | `Docker` `Kubernetes` `Nginx` `AWS` |
+| **Backend Core** | `Rust` · `Go` · `TypeScript` |
+| **Data Layer** | `PostgreSQL` · `Redis` · `MongoDB` |
+| **Infra & DevOps** | `Docker` · `K8s` · `Nginx` · `AWS` |
 
 ---
 
-### 💡 Architect'in Felsefesi
-> "Karmaşıklığı yönetmek, ölçeklenebilirliği garantilemek."
+### 📂 Öne Çıkan Projeler
+*Projelerime dair detaylar için tıklayın:*
 
-* **Microservices:** Dağıtık sistemlerde yüksek erişilebilirlik.
-* **Discord Ecosystem:** Bot altyapıları için optimize edilmiş backend çözümleri.
-* **DevOps:** Arch Linux tabanlı, CI/CD süreçleri ile otomatikleşmiş 24/7 deployment.
+<details>
+  <summary><b>🔹 High-Performance Discord Ecosystem</b></summary>
+  Milyonlarca isteği düşük gecikmeyle işleyen, event-driven yapıda mikroservis mimarisi.
+</details>
+
+<details>
+  <summary><b>🔹 Scalable API Gateway</b></summary>
+  Rust/Go ile optimize edilmiş, yüksek throughput odaklı uç noktalar.
+</details>
+
+<details>
+  <summary><b>🔹 Automated Dev Environment</b></summary>
+  Neovim tabanlı, CI/CD süreçleriyle tamamen entegre edilmiş geliştirici ortamı.
+</details>
 
 ---
 
-### 🛠️ Proje Odakları
-*(En sevdiğim çalışma alanlarım)*
+### 📈 Global Etki & Metrikler
+*(GitHub İstatistiklerim)*
 
-* **Scalable Bot Infrastructure:** Milyonlarca isteği yönetebilen, düşük gecikmeli bot mimarileri.
-* **High-Performance APIs:** Rust ve Go ile yazılmış, verimliliği ön planda tutan uç noktalar.
-* **Automated Systems:** Neovim ve Docker ile güçlendirilmiş, hatasız geliştirme ortamları.
+![Stats](https://github-readme-stats.vercel.app/api?username=maxdeveloperdc&theme=radical&hide_border=true&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxdeveloperdc&theme=radical&hide_border=true)
 
 ---
 
-### 📬 İletişim
+### 📬 İletişim & Bağlantılar
 <a href="https://discord.com/users/maxdeveloperdc">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="mailto:seninmailin@domain.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxdeveloperdc&theme=radical&hide_border=true)
 
 </div>
