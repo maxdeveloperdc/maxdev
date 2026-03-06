@@ -1,46 +1,33 @@
 <div align="center">
 
-# Merhaba! Ben [Adın] 👋
+# ⚡ Discord Developer Dashboard
 
-### ⚡ Discord Bot Geliştiricisi & Yazılım Meraklısı
+<p><i>Backend, API ve Discord Bot Geliştiricisi</i></p>
 
----
-
-<table>
+<table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 Hakkımda</h3>
-      <p>Discord botları geliştiriyor, API entegrasyonları ve veritabanı yönetimi ile uğraşıyorum. Kod kalitesine önem veren biriyim.</p>
+    <td width="33%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h3>🛠️ Teknoloji</h3>
+      <p>Node.js, Python, TS, MongoDB, Docker, Git</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Yetenekler</h3>
-      <p><b>Diller:</b> JS, TS, Python<br>
-      <b>Backend:</b> Node.js, Discord.js, MongoDB<br>
-      <b>Tooling:</b> Docker, Git, Nginx, Linux</p>
+    <td width="33%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h3>🚀 Durum</h3>
+      <p>Yeni projeler geliştiriyorum ve bot altyapılarını optimize ediyorum.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Projelerim</h3>
-      <ul>
-        <li><b>BotX:</b> [Kısa açıklama]</li>
-        <li><b>API-Tools:</b> [Kısa açıklama]</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📬 İletişim</h3>
-      <p>Discord: <code>[KullanıcıAdın]</code><br>
-      E-posta: <code>[Mailin]</code></p>
+    <td width="33%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h3>🌐 Bağlantılar</h3>
+      <p>Discord: <code>maxdeveloperdc</code><br>GitHub: <code>@maxdeveloperdc</code></p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxdeveloperdc&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdeveloperdc&theme=radical&show_icons=true&hide_border=true&layout=compact" width="48%">
+</div>
 
-### 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdeveloperdc&theme=radical&hide_border=true" width="97%">
+</div>
 
 </div>
